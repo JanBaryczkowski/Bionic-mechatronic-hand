@@ -1,2 +1,4 @@
 # Bionic-mechatronic-hand
 This project was part of a university course focused on mechatronic system design. As part of the course, I concentrated on designing the robotic hand, with plans to build and program it in the future.
+
+The biomimetic mechatronic hand offers a total of 11 degrees of freedom, controlled by the opening and closing of the fingers using a tendon-driven mechanism, combined with local servos controlling wrist movement and lateral finger motion. The tendons run through holes in the rotating elements of the fingers, and their ends are routed to servomechanisms placed in the forearm. The applied finger mechanism was developed based on the open-source kinematic scheme of the HRI Hand robotic hand and the work of Will Cogley, who uses a set of joints and linkages remotely controlled by tendons. The hand was 3D-printed, and fishing line was used as the tendon material due to its high strength and small diameter.
